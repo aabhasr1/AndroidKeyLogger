@@ -16,6 +16,8 @@
 
 package com.example.android.softkeyboard;
 
+//this is changed
+
 import android.inputmethodservice.InputMethodService;
 import android.inputmethodservice.Keyboard;
 import android.inputmethodservice.KeyboardView;
