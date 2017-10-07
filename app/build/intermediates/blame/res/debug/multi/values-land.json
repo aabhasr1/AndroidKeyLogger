@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 42,
+                    "endOffset": 93
+                },
+                "from": {
+                    "file": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\src\\main\\res\\values-land\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 42,
+                        "endOffset": 751
+                    }
+                }
+            }
+        ]
+    }
+]

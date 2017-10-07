@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\build\\intermediates\\res\\merged\\debug\\xml\\qwerty.xml",
+        "source": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\src\\main\\res\\xml\\qwerty.xml"
+    },
+    {
+        "merged": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\build\\intermediates\\res\\merged\\debug\\xml\\symbols_shift.xml",
+        "source": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\src\\main\\res\\xml\\symbols_shift.xml"
+    },
+    {
+        "merged": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\build\\intermediates\\res\\merged\\debug\\xml\\symbols.xml",
+        "source": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\src\\main\\res\\xml\\symbols.xml"
+    },
+    {
+        "merged": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\build\\intermediates\\res\\merged\\debug\\xml\\ime_preferences.xml",
+        "source": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\src\\main\\res\\xml\\ime_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\build\\intermediates\\res\\merged\\debug\\xml\\method.xml",
+        "source": "C:\\Users\\aabha\\Desktop\\AndroidKeyLogger\\app\\src\\main\\res\\xml\\method.xml"
+    }
+]
